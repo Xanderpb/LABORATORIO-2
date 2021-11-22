@@ -14,3 +14,7 @@
 **Docente** Ing.Alulema Flores Darwin Omar 
 
 ## Objetivo General
+
+* Analizar el circuito y medir las corrientes de las mallas del mismo.
+
+## Objetivos Especificos:
