@@ -58,6 +58,16 @@
 ![sistecu](https://user-images.githubusercontent.com/93224166/142962492-fef4bbe2-0ac0-437d-8291-9c95ea71f8b6.png)
 
 ## Respuesta a Interrogantes y Calculo del error
+
+
+
+![image](https://user-images.githubusercontent.com/93928146/142963698-c2985d04-d547-4377-bdf1-b2592d467d80.png)
+
+
+
+
+
+
 ## VIDEO
 ## CONCLUSIONES
 ## BIBLIOGRAFIA.
