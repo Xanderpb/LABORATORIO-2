@@ -25,5 +25,3 @@
 *  Comparacion de resultados de los diferentes simuladores
 
 
-
-![LABORATORIO 2](https://user-images.githubusercontent.com/93928146/142952973-64628592-c4a8-47d7-85c7-18c1dd1f368a.PNG)
