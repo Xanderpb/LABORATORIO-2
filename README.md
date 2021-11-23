@@ -54,10 +54,15 @@
 
 ### CALCULOS REALIZADOS
 
-![resulsistecu](https://user-images.githubusercontent.com/93224166/142962491-4de94686-a4cf-458d-98b1-64c1eb637f83.png)
+![calculos](https://user-images.githubusercontent.com/93951775/142963883-9808aeed-8cb9-4628-b7d7-01b843c103a0.JPG)
 ![sistecu](https://user-images.githubusercontent.com/93224166/142962492-fef4bbe2-0ac0-437d-8291-9c95ea71f8b6.png)
+![resulsistecu](https://user-images.githubusercontent.com/93224166/142962491-4de94686-a4cf-458d-98b1-64c1eb637f83.png)
+
 
 ## Respuesta a Interrogantes y Calculo del error
+
+![TABLA RESULTADOS LABORATORIO 2](https://user-images.githubusercontent.com/93928146/142964664-ce753c09-4877-47ba-a2dd-b7e32261b765.PNG)
+
 ## VIDEO
 ## CONCLUSIONES
 * La intensidad es igual al voltaje sobre la resistencia
