@@ -54,25 +54,20 @@
 
 ### CALCULOS REALIZADOS
 
-![calculos](https://user-images.githubusercontent.com/93951775/142963883-9808aeed-8cb9-4628-b7d7-01b843c103a0.JPG)
 ![resulsistecu](https://user-images.githubusercontent.com/93224166/142962491-4de94686-a4cf-458d-98b1-64c1eb637f83.png)
 ![sistecu](https://user-images.githubusercontent.com/93224166/142962492-fef4bbe2-0ac0-437d-8291-9c95ea71f8b6.png)
 
 ## Respuesta a Interrogantes y Calculo del error
-
-
-
-![image](https://user-images.githubusercontent.com/93928146/142963698-c2985d04-d547-4377-bdf1-b2592d467d80.png)
-
-
-
-
-
-
 ## VIDEO
 ## CONCLUSIONES
+* La intensidad es igual al voltaje sobre la resistencia
+* El voltaje total es igual a la suma de las caidas de los voltajes.
+* La diferncia entre trayectoria y malla es que la trayectoria puede albergar otras trayectorias en cambio la malla es un circuito cerrado y no puede albergar otras mallas.
 ## BIBLIOGRAFIA.
-
+* [1] Colaboradores de los proyectos Wikimedia, “red eléctrica o electrónica que contiene al menos una trayectoria cerrada funcionable,” Wikipedia.org, Dec. 23, 2003. https://es.wikipedia.org/wiki/Circuito (accessed Nov. 23, 2021).
+‌
+* https://www.tinkercad.com/dashboard?type=circuits&collection=designs
+* https://www.multisim.com/create/
 
 
 
