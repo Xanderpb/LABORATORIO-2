@@ -47,6 +47,10 @@
 ![circuito](https://user-images.githubusercontent.com/93224166/142962494-988f267c-7a85-4fb8-9579-4199a6ab9c8e.png)
 ![circuitomultisim](https://user-images.githubusercontent.com/93224166/142962495-ffc5f652-acdd-47a8-a709-8a025eaa55ed.png)
 
+## IDENTIFICACION DE MALLAS EN EL CIRCUITO
+
+![identificacionmallas](https://user-images.githubusercontent.com/93224166/142967767-330bf7e5-180d-4995-b0ef-f6639dd46862.png)
+
 ### MEDICIONES EN LOS SIMULADORES
 
 ![medicionestink](https://user-images.githubusercontent.com/93224166/142962489-dd9aa65f-541d-4fab-a16a-c96a4814e314.png)
