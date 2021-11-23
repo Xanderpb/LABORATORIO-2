@@ -64,13 +64,15 @@
 ![TABLA RESULTADOS LABORATORIO 2](https://user-images.githubusercontent.com/93928146/142964664-ce753c09-4877-47ba-a2dd-b7e32261b765.PNG)
 
 ## VIDEO
+
+https://youtu.be/G3cMATpdmfo
+
 ## CONCLUSIONES
 * La intensidad es igual al voltaje sobre la resistencia
 * El voltaje total es igual a la suma de las caidas de los voltajes.
 * La diferncia entre trayectoria y malla es que la trayectoria puede albergar otras trayectorias en cambio la malla es un circuito cerrado y no puede albergar otras mallas.
 ## BIBLIOGRAFIA.
 * [1] Colaboradores de los proyectos Wikimedia, “red eléctrica o electrónica que contiene al menos una trayectoria cerrada funcionable,” Wikipedia.org, Dec. 23, 2003. https://es.wikipedia.org/wiki/Circuito (accessed Nov. 23, 2021).
-‌
 * https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 * https://www.multisim.com/create/
 
