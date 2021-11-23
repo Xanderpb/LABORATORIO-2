@@ -54,6 +54,7 @@
 
 ### CALCULOS REALIZADOS
 
+![calculos](https://user-images.githubusercontent.com/93951775/142963883-9808aeed-8cb9-4628-b7d7-01b843c103a0.JPG)
 ![resulsistecu](https://user-images.githubusercontent.com/93224166/142962491-4de94686-a4cf-458d-98b1-64c1eb637f83.png)
 ![sistecu](https://user-images.githubusercontent.com/93224166/142962492-fef4bbe2-0ac0-437d-8291-9c95ea71f8b6.png)
 
