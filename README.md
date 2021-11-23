@@ -18,3 +18,8 @@
 * Analizar el circuito y medir las corrientes de las mallas del mismo.
 
 ## Objetivos Especificos:
+
+* Analizar que es una malla
+*  construir el circuito en Tintercad y 
+*  Medidas de corrientes de mallas en cada simulador 
+*  Comparacion de resultados de los diferentes simuladores
